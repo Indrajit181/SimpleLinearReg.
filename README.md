@@ -1,1 +1,2 @@
 # SimpleLinearReg.
+# Indrajit Mahajan
